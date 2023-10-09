@@ -39,10 +39,10 @@ My Min-Heap project consists of 7 files.
 To run the project, execute the Makefile in gcc to compile all the files by typing the make command. Then, to run the program itself, enter ./run in the console
 
 ## How to use the project:
-To use the project, run the project and follow the instructions that print out on the screen in terms of the necessary inputs to execute your desired commands on the MIN-HEAP.
-To initialize a HEAP, enter in C n, where n is the desired capacity of the HEAP object.
-To build a HEAP from the input file, enter in R.
-To print out the current HEAP object, including capacity, size, and the ELEMENTs, enter in W.
-To insert an ELEMENT in the HEAP, enter in I f k, where f is the flag that determines the print state of the function, and k is the key of the ELEMENT being added into the array.
-To delete the minimum ELEMENT from the HEAP, enter in D f, where f is the flag that determines the print state of the function.
-To decrease the key of an ELEMENT in the heap, enter in K f i v, where f is the flag that determines the print state of the function, i is the index of the value to be decreased, and v is the value to change the key to.
+- To use the project, run the project and follow the instructions that print out on the screen in terms of the necessary inputs to execute your desired commands on the MIN-HEAP.
+- To initialize a HEAP, enter in C n, where n is the desired capacity of the HEAP object.
+- To build a HEAP from the input file, enter in R.
+- To print out the current HEAP object, including capacity, size, and the ELEMENTs, enter in W.
+- To insert an ELEMENT in the HEAP, enter in I f k, where f is the flag that determines the print state of the function, and k is the key of the ELEMENT being added into the array.
+- To delete the minimum ELEMENT from the HEAP, enter in D f, where f is the flag that determines the print state of the function.
+- To decrease the key of an ELEMENT in the heap, enter in K f i v, where f is the flag that determines the print state of the function, i is the index of the value to be decreased, and v is the value to change the key to.
